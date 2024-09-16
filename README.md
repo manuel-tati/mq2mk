@@ -1,22 +1,17 @@
-# next-template
+# MQ2MK
 
-A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
+**A MQ2MK** é uma consultoria de desenvolvimento de software focada em oferecer soluções personalizadas e inovadoras para empresas de todos os portes. Com uma equipe altamente qualificada e experiência em diversas tecnologias, a MQ2MK ajuda seus clientes a transformar ideias em produtos digitais robustos e escaláveis.
 
-## Usage
+##### Principais serviços da MQ2MK
 
-```bash
-npx create-next-app -e https://github.com/shadcn/next-template
-```
+- Desenvolvimento sob medida: Criação de sistemas e aplicativos adaptados às necessidades específicas de cada negócio, garantindo performance e eficiência.
 
-## Features
+- Consultoria tecnológica: Análise detalhada da infraestrutura tecnológica e recomendações de soluções que aumentam a competitividade e reduzem custos.
 
-- Next.js 13 App Directory
-- Radix UI Primitives
-- Tailwind CSS
-- Icons from [Lucide](https://lucide.dev)
-- Dark mode with `next-themes`
-- Tailwind CSS class sorting, merging and linting.
+- Integração de sistemas: Conectividade entre plataformas e softwares existentes para otimizar processos internos e externos, facilitando o fluxo de dados.
 
-## License
+- Modernização de aplicações legadas: Atualização de sistemas antigos com tecnologias modernas, melhorando a segurança, escalabilidade e desempenho.
 
-Licensed under the [MIT license](https://github.com/shadcn/ui/blob/main/LICENSE.md).
+- Automação de processos: Implementação de soluções de automação para otimizar operações e reduzir tarefas manuais, permitindo que as equipes se concentrem em atividades de maior valor.
+
+**A MQ2MK** se destaca por seu compromisso com a qualidade e o foco em resultados, trabalhando lado a lado com seus clientes para alcançar metas de crescimento e inovação através da tecnologia.
